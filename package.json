@@ -1,9 +1,10 @@
 {
-  "name": "poker-plan-privacy-and-policy",
+  "name": "poker-plan-web-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "inferno": "^7.3.2",
+    "inferno-router": "^7.3.2",
     "inferno-scripts": "7.0.4"
   },
   "scripts": {
